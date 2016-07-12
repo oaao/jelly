@@ -1,4 +1,4 @@
-jelly
+# jelly
 
 Simple EVE Online jam chance calculator in Python that runs from the command line.
 
