@@ -1,0 +1,19 @@
+TODO - MVP
+----
+[b. 2016-07-11] Better exception handling.
+
+
+TODO - NEXT ITER
+----
+[b. 2016-07-11] Build script out into a Flask web application.
+
+
+TODO - AS IF
+----
+[b. 2016-07-11] Build an input framework that takes into account things like:
+                - configurable slot layout, and/or:
+                - hull choices with factored skill/role bonuses
+                - modules
+                - rigs
+                - subsystems
+                - implants
